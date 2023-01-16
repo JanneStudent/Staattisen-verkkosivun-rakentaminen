@@ -1,0 +1,9 @@
+main{
+    display: flex;
+}
+section{
+    display: flex;
+    flex-direction: row-reverse;
+    -ms-flex-wrap: wrap;
+
+}
