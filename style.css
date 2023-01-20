@@ -1,5 +1,28 @@
 main{
     display: flex;
+    background-color: aquamarine;
+}
+
+head{
+    align-content: center;
+}
+.link:hover { color: #003cff; }
+link{
+    
+    color: rgb(255, 0, 0);
+    
+    
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    size: 18px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    size: 12px;
 }
 section{
     display: flex;
