@@ -3,6 +3,10 @@ main{
     background-color: aquamarine;
 }
 
+ img {
+        float: right;
+}
+
 body{
  background-color: rgb(115, 255, 0)   
 }
