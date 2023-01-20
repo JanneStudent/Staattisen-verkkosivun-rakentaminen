@@ -13,7 +13,9 @@ main{
 body{
  background-color: rgb(115, 255, 0)   
 }
-
+header{
+  top: auto;  
+}
 head{
     list-style-position: inside;
     text-align: center;
