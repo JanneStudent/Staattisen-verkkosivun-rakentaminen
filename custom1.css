@@ -21,6 +21,17 @@ footer{
 
 
 
+.col-3{
+    background-color: hsl(202, 98%, 68%);
+}
+.col-2{
+    background-color: #22c1cc;
+}
+.col-5 {
+    
+    background-color: #3375f0;
+}
+
 
 
 
