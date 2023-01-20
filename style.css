@@ -1,6 +1,6 @@
 main{
     display: flex;
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
 }
 
  img {
@@ -11,7 +11,7 @@ main{
 }
 
 body{
- background-color: rgb(115, 255, 0)   
+ background-color: rgb(255, 255, 255)   
 }
 header{
   top: auto;  
