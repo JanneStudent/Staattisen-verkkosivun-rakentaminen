@@ -3,6 +3,10 @@ main{
     background-color: aquamarine;
 }
 
+body{
+ background-color: aquamarine   
+}
+
 head{
     align-content: center;
 }
@@ -19,10 +23,11 @@ link{
     
 }
 h1{
+    text-align: center;
     text-transform: uppercase;
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    size: 18px;
+    size: 16px;
 }
 p{
     font-family: 'Times New Roman', Times, serif;
