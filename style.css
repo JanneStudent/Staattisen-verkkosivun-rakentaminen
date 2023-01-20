@@ -6,7 +6,12 @@ main{
 head{
     align-content: center;
 }
-.link:hover { color: #003cff; }
+
+a:hover{
+    color: #FF0000;
+}
+
+.link { color: #FF0000; }
 link{
     
     color: rgb(255, 0, 0);
