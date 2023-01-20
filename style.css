@@ -15,6 +15,9 @@ body{
 }
 
 head{
+    list-style-position: inside;
+    text-align: center;
+    align-items: center;
     align-content: center;
 }
 
